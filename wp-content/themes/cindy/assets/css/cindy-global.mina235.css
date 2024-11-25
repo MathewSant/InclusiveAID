@@ -3127,8 +3127,9 @@ form[role=search] .svg-icon {
 	color: var(--color_palette_2)
 }
 
+
 :root [class].has-palette-2-background-color {
-	background-color: #ff313c
+	background-color: #242222
 }
 
 :root [class].has-palette-2-border-color {
